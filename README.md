@@ -12,7 +12,7 @@
 #### La IA busca brindar a las máquinas la capacidad de *"pensar"* y actuar de manera autónoma, al igual que las personas. 
 Esta tecnología puede usarse en una variedad de aplicaciones, incluido el reconocimiento de voz y visión por computadora, así como robots inteligentes y automóviles autónomos.La inteligencia artificial tiene la capacidad de alterar muchos aspectos de nuestras vidas, desde cómo trabajamos hasta cómo interactuamos con el mundo exterior.
 
-[![VIDEO](https://markdown-videos.deta.dev/youtube/_tA5cinv0U8&ab_channel=Derivando)](https://youtu.be/_tA5cinv0U8?si=4H6qsPgH2Hk3gATC)
+[![VIDEO](https://markdown-videos.deta.dev/youtube/_tA5cinv0U8?si=4H6qsPgH2Hk3gATC)](https://youtu.be/_tA5cinv0U8?si=4H6qsPgH2Hk3gATC)
 
 ###### [Fuente](https://planderecuperacion.gob.es/noticias/que-es-inteligencia-artificial-ia-prtr)
 
