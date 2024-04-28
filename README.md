@@ -1,4 +1,4 @@
-# IA_Final
+# Formación en IA
 ###### Santiago Benavides Delgado
 ## Contenido
 1. [IA](#Que-es-IA?).
